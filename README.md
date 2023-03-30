@@ -3,9 +3,9 @@
 Authors: Aldwin Suryo Rahmanto<sup>1,#</sup>, Christian J. Blum<sup>1,#</sup>, Claudia Scalera<sup>1</sup>, Jan B. Heidelberger<sup>1</sup>, Mikhail Mesitov<sup>1</sup>, Justus F. Gräf<sup>1,3</sup>, Ivan Mikicic<sup>1</sup>, Matthias Ostermaier<sup>1</sup>, Stefanie Ebersberger<sup>1</sup>, Nils Krapoth<sup>1</sup>, Nádia Da Silva Fernandes<sup>1</sup>, Athanasia Mizi<sup>4</sup>, Yajie Zhu<sup>4</sup>, Jia-Xuan Chen<sup>1</sup>, Chunaram Choudhary<sup>3</sup>, Argyris Papantonis<sup>4</sup>, Helle D. Ulrich<sup>1</sup>, Julian König<sup>1</sup>, Petra Beli<sup>1,2,*</sup>
 
 Affiliations:
-<sup>1</sup>Institute of Molecular Biology (IMB), 55128 Mainz, Germany
-<sup>2</sup>Institute of Developmental Biology and Neurobiology (IDN), Johannes Gutenberg-Universität, 55128 Mainz, Germany
-<sup>3</sup>Department of Proteomics, The Novo Nordisk Foundation Center for Protein Research, Faculty of Health and Medical Sciences, University of Copenhagen, Blegdamsvej 3B, Copenhagen 2200, Denmark
+<sup>1</sup>Institute of Molecular Biology (IMB), 55128 Mainz, Germany<br />
+<sup>2</sup>Institute of Developmental Biology and Neurobiology (IDN), Johannes Gutenberg-Universität, 55128 Mainz, Germany<br />
+<sup>3</sup>Department of Proteomics, The Novo Nordisk Foundation Center for Protein Research, Faculty of Health and Medical Sciences, University of Copenhagen, Blegdamsvej 3B, Copenhagen 2200, Denmark<br />
 <sup>4</sup>Institute of Pathology, University Medical Center Göttingen, 37075 Göttingen, Germany
 
 <sup>#</sup>These authors contributed equally to this work
