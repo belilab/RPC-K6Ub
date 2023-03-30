@@ -1,6 +1,6 @@
 # K6-Linked Ubiquitylation Marks Toxic RNA–Protein Crosslinks Induced by Formaldehyde
 
-Authors: Aldwin Suryo Rahmanto<sup>1,#</sup>, Christian J. Blum<sup>1,#</sup>, Claudia Scalera<sup>1</sup>, Jan B. Heidelberger<sup>1</sup>, Mikhail Mesitov<sup>1</sup>, Justus F. Gräf<sup>1,3</sup>, Ivan Mikicic<sup>1</sup>, Matthias Ostermaier<sup>1</sup>, Stefanie Ebersberger<sup>1</sup>, Nils Krapoth<sup>1</sup>, Nádia Da Silva Fernandes<sup>1</sup>, Athanasia Mizi<sup>4</sup>, Yajie Zhu<sup>4</sup>, Jia-Xuan Chen<sup>1</sup>, Chunaram Choudhary<sup>3</sup>, Argyris Papantonis<sup>4</sup>, Helle D. Ulrich<sup>1</sup>, Julian König<sup>1</sup>, Petra Beli<sup>1,2,*</sup>
+**Authors:** Aldwin Suryo Rahmanto<sup>1,#</sup>, Christian J. Blum<sup>1,#</sup>, Claudia Scalera<sup>1</sup>, Jan B. Heidelberger<sup>1</sup>, Mikhail Mesitov<sup>1</sup>, Justus F. Gräf<sup>1,3</sup>, Ivan Mikicic<sup>1</sup>, Matthias Ostermaier<sup>1</sup>, Stefanie Ebersberger<sup>1</sup>, Nils Krapoth<sup>1</sup>, Nádia Da Silva Fernandes<sup>1</sup>, Athanasia Mizi<sup>4</sup>, Yajie Zhu<sup>4</sup>, Jia-Xuan Chen<sup>1</sup>, Chunaram Choudhary<sup>3</sup>, Argyris Papantonis<sup>4</sup>, Helle D. Ulrich<sup>1</sup>, Julian König<sup>1</sup>, Petra Beli<sup>1,2,*</sup>
 
 Affiliations:
 <sup>1</sup>Institute of Molecular Biology (IMB), 55128 Mainz, Germany<br />
